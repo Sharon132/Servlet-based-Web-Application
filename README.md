@@ -2,7 +2,7 @@
 
 The feature of Homehub
 
-    		2.1 User Account/Profile/Transaction management & MySQL
+    	2.1 User Account/Profile/Transaction management & MySQL
 			We have implemented the MySQL database to store all the user registration details including customers and manager, with attributes like username, 
       password and user type.
 			MySQL database is also implemented with the user profile data, which includes username, user address: street, state, zip code, contact information: 
